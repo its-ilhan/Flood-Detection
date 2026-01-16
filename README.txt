@@ -12,3 +12,7 @@ Open the notebooks and run cells in order.
 
 ## Results
 See the `metric_plots_gpu/` folder for evaluation plots.
+
+##Report
+📄 Full report: report/final_report.pdf
+
