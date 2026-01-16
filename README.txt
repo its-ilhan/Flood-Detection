@@ -14,5 +14,5 @@ Open the notebooks and run cells in order.
 See the `metric_plots_gpu/` folder for evaluation plots.
 
 ##Report
-📄 Full report: report/final_report.pdf
+📄 [Project Report](report/final_report.pdf)
 
